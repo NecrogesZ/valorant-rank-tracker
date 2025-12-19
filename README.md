@@ -42,7 +42,7 @@ python tracker.py
 
 ## 📄 Créditos
 
-* Desarrollado por **[NecrogesZ](https://www.google.com/search?q=https://github.com/NecrogesZ)**
+* Desarrollado por **[NecrogesZ](https://github.com/NecrogesZ)**
 * API provista por [HenrikDev](https://henrikdev.xyz)
 
 ```
