@@ -11,7 +11,7 @@ Un script en Python que utiliza la API de HenrikDev para obtener estadísticas e
 
 1. Clona el repositorio:
 ```bash
-   git clone https://github.com/NecrogesZ/valorant-rank-tracker.git
+git clone https://github.com/NecrogesZ/valorant-rank-tracker.git
 
 ```
 
