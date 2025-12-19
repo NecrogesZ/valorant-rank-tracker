@@ -45,4 +45,3 @@ python tracker.py
 * Desarrollado por **[NecrogesZ](https://github.com/NecrogesZ)**
 * API provista por [HenrikDev](https://henrikdev.xyz)
 
-```
