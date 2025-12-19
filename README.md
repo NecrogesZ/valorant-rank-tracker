@@ -10,7 +10,7 @@ Un script en Python que utiliza la API de HenrikDev para obtener estadísticas e
 ## 🛠️ Instalación
 
 1. Clona el repositorio:
-   ```bash
+```bash
    git clone [https://github.com/NecrogesZ/valorant-rank-tracker.git](https://github.com/NecrogesZ/valorant-rank-tracker.git)
 
 ```
