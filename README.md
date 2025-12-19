@@ -26,8 +26,6 @@ pip install -r requirements.txt
 * Agrega tus datos:
 ```ini
 API_KEY=HDEV-TU-LLAVE-AQUI
-PLAYER_NAME=TuNombre
-PLAYER_TAG=TuTag
 
 ```
 
@@ -39,6 +37,9 @@ Ejecuta el script desde la terminal:
 python tracker.py
 
 ```
+
+Te pedirá el nombre y el tag del usuario, luego de eso, ya está :D 
+
 
 ## 📄 Créditos
 
