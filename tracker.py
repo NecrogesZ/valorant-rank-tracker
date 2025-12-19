@@ -38,7 +38,3 @@ def obtener_rango(nombre, tag):
         return f"Región: {region.upper()} | Nivel: {nivel}\n\n{rango}\n{elo} RR"
     
     return "No se pudo obtener el rango."
-
-if __name__ == "__main__":
-    # Prueba rápida por si lo ejecutas directo
-    print(obtener_rango("NecrogesZ", "ZroLT"))
