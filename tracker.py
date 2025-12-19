@@ -6,14 +6,18 @@ load_dotenv()
 
 def obtener_datos_jugador():
     api_key = os.getenv("API_KEY")
-    nombre = os.getenv("PLAYER_NAME")
-    tag = os.getenv("PLAYER_TAG")
+
     
-    if not api_key or not nombre or not tag:
+    if not api_key:
         print("❌ Error: Faltan datos en el .env")
         return
 
     headers = { "Authorization": api_key }
+
+    # PASO 0: Solicitamos datos al usuario
+
+    nombre = input("Por favor escribe el nombre del jugador: ")
+    tag = input("Por favor escribe el tag del jugador: ")
 
     # PASO 1: Obtenemos datos de la cuenta (Nivel, Región, Foto)
     print(f"📡 1. Buscando perfil de {nombre}#{tag}...")
